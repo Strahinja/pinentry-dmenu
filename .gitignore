@@ -1,2 +1,7 @@
-build
+*~
+*.bak
+*.orig
+*.rej
 *.o
+pinentry-dmenu
+nohup.out
